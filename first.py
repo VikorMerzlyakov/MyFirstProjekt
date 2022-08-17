@@ -1,6 +1,6 @@
 print('Hello world')
 print('Ебаное гитовское  говно')
 x1 = 2
-x2 = 1
+y = input('y1: ')
 x = x1 + x2
-y = x
+carpet = x * x
